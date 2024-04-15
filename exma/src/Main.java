@@ -6,4 +6,8 @@ public class Main {
         }
         //RAMA
     }
+    int a=0;
+    if(a==0){
+        System.out.println("Es 0");
+    }
 }
